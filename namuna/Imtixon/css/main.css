@@ -1,0 +1,327 @@
+*{
+        margin:0px;
+        padding: 0px;
+        list-style: none;
+        text-decoration: none;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+    }
+    .a{
+        color: black;
+    }
+    
+    .header-nav img{
+        width: 79px;
+        height: 79px;
+    }
+    .header-nav ul li{
+        display: inline-block;
+        margin-left: 40px;
+        justify-content: space-between;
+    }
+    .container{
+        width: 1125px;
+        margin: 0 auto;
+        padding: 0 20px;
+    
+    }
+    .button{
+        background: #D23166;
+        border-radius: 5px;
+        padding: 14px 50px;
+       
+        
+    }
+    .button a{
+        color: #FAFAFA;
+        
+    }
+    .header-li a{
+        margin-left: 200px;
+    }
+    .head{
+        background-color: #F2CEDA;
+    }
+    .b{
+        color: red;
+    }
+    .text{
+     width: 400px;
+    height: 170px;
+    display: inline-block;
+    padding-top: 100px;
+    }
+    .page{
+        position: relative;
+    }
+    .text .javlonbek{
+        margin-left: 50px;
+    }
+    .text img{
+        width: 30px;
+        position: absolute;
+        top: -18%;
+        left: 70px;
+    }
+    .main-div a{
+        color: #FAFAFA;
+    }
+    .main-div{
+        width: 1125px;
+        display: flex;
+    }
+    .images img{
+        width:500px ;
+        height:500px ;
+        align-items: center;
+    }
+    .images{
+        display: inline-block;
+    
+    }
+    .four-div{
+        display: flex;
+    }
+    .four-div div{
+        display: inline-block;
+        margin: 70px;
+        padding: 40px 0px;
+    }
+    .four-div img{
+        width: 80px;
+        margin-bottom: 5px;
+    }
+    .four-div p{
+        width: 120px;
+    }
+    .section-two{
+        background-color: #FFFFFF;
+    }
+    .list li{
+        display: inline-block;
+        margin-left: 50px;
+        color: black;
+    }
+    .list h2{
+        text-align: center;
+       padding-bottom:10px ;
+    }
+    .list{
+        background: #FFFFFF;
+    }
+    .page img{
+        height: 350px;
+    }
+    .list-of{
+        background-color: rgb(255, 255, 255);
+    }
+    .page{
+      
+        padding-left: 50px;
+    }
+    .text{
+        margin-left: 15px;
+    }
+    .last{
+        height: 600px;
+        width: 1125px;
+    }
+    .last img{
+        margin-top: 40px;
+        margin-left: 60px;
+        border-radius:20px;
+    }
+    .last-div{
+        width: 400px;
+        display: inline-block;
+    }
+    .old-div{
+        display: inline-block;
+        width: 450px;
+    }
+    .old-div img{
+        border: 10px;
+        margin-right: 50px;
+        background-color: #FAFAFA;
+        padding: 10px 10px;
+    }
+    .old-div button{
+        padding: 15px 25px;
+        color: #FFFFFF;
+        background-color: black;
+        margin-left: 50px;
+        border-radius: 5px;
+    }
+    .play{
+        display: flex;
+    }
+    .section__row .text2{
+        padding-top: 150px;
+        margin-left: 300px;
+         
+    }
+    .text2__h1{
+        width: 522px;
+        height: 123px;
+        top: 4942px;
+    
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 44px;
+        line-height: 52px;
+        text-align: center;
+    
+        color: #000000;
+    }
+    .row__input{
+        padding-top: 36px;
+        padding-left: 300px;
+        align-items: center;
+        padding-bottom: 71px;
+    }
+    .phone{
+        width: 303px;
+        height: 70px;
+        left: 482px;
+        top: 5101px;
+        background: #FFFFFF;
+        border: 2px solid #FFA3A3;
+        border-radius: 5px;
+    }
+    .question{
+        width: 303px;
+        height: 70px;
+        margin-left: 30px;
+        left: 815px;
+        top: 5101px;
+        background: #FFFFFF;
+        border: 2px solid #FFA3A3;
+        border-radius: 5px;
+    }
+    .row__textarea{
+        display: flex;
+        margin-top: 37px;
+    }
+    .textarea{
+        width: 502px;
+        height: 74px;
+        left: 482px;
+        top: 5212px;
+        background: #FFFFFF;
+        border: 2px solid #FFA3A3;
+        border-radius: 5px;
+    }
+    .row__input button{
+        width: 134px;
+        height: 74px;
+        left: 900px;
+        top: 5212px;
+        background: #D64374;
+        border-radius: 5px
+    }
+    .cler{
+        background-color: #FFFFFF;
+    }
+    .footer{
+        background-color: black;
+        width: 100%;
+        margin: 0 auto;
+    }
+    .footer img{
+     margin-left: 50px;
+     padding-top: 20px;
+    }
+    .texts{
+        display: inline-block;
+        color: #FFFFFF;
+        margin-left: 5px;
+       
+    }
+    .texts h3{
+        margin-left: 20px;
+    }
+    .texts p{
+        margin-left: px;
+        display: inline-block;
+    }
+    .hr{
+        display: inline-block;
+        color: white;
+        padding-top: -30px;
+    }
+    .texts li{
+        display: inline-block;
+    }
+    .texts li img{
+        width: 25px;
+        
+    }
+    .table{
+        color: #FFFFFF;
+       display: inline-block;
+       padding-top: px;
+    }
+    .table{
+        margin-left: 60px;
+    }
+    .link{
+        color: #FAFAFA;
+    }
+    .rasm{
+        display: block;
+    }
+    .airpods{
+        display: inline-block;
+        margin-left: 60px;
+    
+        
+    }
+    .foot{
+        color: #FFFFFF;
+    }
+    .input{
+        width: 250px;
+        height: 55px;
+    }
+    .finelly{
+        display: inline-block;
+        margin-left: 60px;
+    
+    }
+    .finelly button{
+        height: 60px; 
+        width: 140px;
+        color: #FFFFFF;
+        background-color: #D23166;
+    
+    }
+    .finelly h3{
+        color: #FFFFFF;
+    }
+    .img_logo1{
+        width: 18.78px;
+        height: 22px;
+        left: 956px;
+        top: 5595px;
+    }
+    .img_logo2{
+        width: 33.85px;
+        height: 20.31px;
+        left: 989.78px;
+        top: 5596.69px;
+    }
+    .img__logo3{
+        left: 64.91%;
+        right: 32.12%;
+        top: 97.57%;
+        bottom: 2.17%;
+    }
+    .oxiri{
+        background-color: black;
+    }
+    .Javlonbek{
+        display: flex;
+        padding-top: 70px;
+    }
+    
+    
